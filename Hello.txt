@@ -1,7 +1,0 @@
-Add new word 
-
-Hello
-
-git pusll => fetch & merg
-
-I see your comment is beautiful, brother
